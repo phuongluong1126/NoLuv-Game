@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/LTTQ/AvoidLove/AvoidLove/Content/nullMusic.wav</SourceFile>
+  <SourceTime>2020-01-03T06:15:17.5205074+07:00</SourceTime>
+  <DestFile>D:/LTTQ/AvoidLove/AvoidLove/Content/bin/Windows/nullMusic.xnb</DestFile>
+  <DestTime>2020-01-03T06:16:17.2381538+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T23:35:54+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T23:35:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

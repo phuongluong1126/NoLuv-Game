@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/00.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/01.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/02.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/03.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/04.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/05.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/06.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/07.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/08.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/09.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/aimCursor.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/AudioBackGround.wav</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/BackGround.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/BackGroundEndGame.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/DownBar.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/DownBarfull.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/DownBarnoblood.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/endMusic.wav</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/ExitButton.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/ExitScript.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/GameOver01.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/GameOver02.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/GameOver03.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/HeartDown.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/HeartLeft.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/HeartRight.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/HeartTop.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/LeftBar.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/LeftBarfull.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/LeftBarnoblood.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/mainChar.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/mainChar02.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/mainChar04.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/mainCharOpenEye.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/MobDown.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/MobLeft.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/MobRight.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/MobTop.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/MyFont.spritefont</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/nullMusic.wav</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/power.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/power01.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/power02.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/power03.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/power04.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/powerBullet.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/powerfull01.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/powerfull02.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/powerfull03.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/powerfull04.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/ResetButton.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/ResetScript.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/RightBar.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/RightBarfull.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/RightBarnoblood.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/Start02.wmv</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/TestFont.spritefont</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/ting.wav</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/TopBar.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/TopBarfull.png</File>
+    <File>D:/LTTQ/AvoidLove/AvoidLove/Content/TopBarnoblood.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
